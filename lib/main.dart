@@ -2,5 +2,5 @@ import 'package:flutter/material.dart';
 import 'package:slidable/views/home_screen.dart';
 
 void main() {
-  runApp(const HomeScreen());
+  runApp(const MyApp());
 }

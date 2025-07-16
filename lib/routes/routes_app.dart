@@ -15,7 +15,7 @@ class RoutesApp {
     }
   }
 
-  static buildRoutes(Widget page, RouteSettings settings) {
+  static MaterialPageRoute buildRoutes(Widget page, RouteSettings settings) {
     return MaterialPageRoute(builder: (context) => page, settings: settings);
   }
 }
