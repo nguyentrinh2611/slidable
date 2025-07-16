@@ -1,16 +1,10 @@
-# slidable
+# Slidable Sample
 
-A new Flutter project.
+A simple Flutter app demonstrating same to [`flutter_slidable`](https://pub.dev/packages/flutter_slidable) package to add sliding actions to list items without use library
 
-## Getting Started
+## 📱 Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Slide list items to reveal actions
+- Configurable action panes (start or end)
+- Add delete, edit, share, or custom actions
+- Smooth animations
